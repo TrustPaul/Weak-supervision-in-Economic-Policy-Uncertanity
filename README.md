@@ -4,7 +4,7 @@ The need for timely data for economic decisions has prompted  most economists an
 <h2>Authors</h2>
 Paul Trust, Ahmed Zahran and Rosane Minghim
 
-# Contacts
+<h2>Contacts</h2>
 Paul Trust:120222601@umail.ucc.ie </br>
 Ahmed Zahran:a.zahran@cs.ucc.ie </br>
 Rosane Minghim:r.minghim@cs.ucc.ie </br>
